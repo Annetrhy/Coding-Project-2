@@ -17,7 +17,7 @@ This project fetches product data from a remote API and displays a responsive pr
 
 - `index.html` — application structure and script inclusion
 - `style.css` — responsive layout and card styling
-- `cp_2.js` — API fetch logic, error handling, and dynamic rendering
+- `main.js` — API fetch logic, error handling, and dynamic rendering
 
 ## Run locally
 
